@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.c linguist-detectable=false
+*.js linguist-detectable=false
+*.tcl linguist-detectable=false
+*.sh linguist-detectable=false
+*.vhdl linguist-detectable=false
+*.v linguist-detectable=true
